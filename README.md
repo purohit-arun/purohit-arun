@@ -1,7 +1,7 @@
 ### Hi Developers, I'm Arun Purohit 👋
 
 
-<img src="" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... React 
