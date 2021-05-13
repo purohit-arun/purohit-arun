@@ -1,6 +1,6 @@
 
 ### Hi there 👋, My name is Arun Purohit
-#### I am Simply Web Developer
+#### I am Web + App Developer
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
