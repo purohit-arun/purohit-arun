@@ -8,10 +8,10 @@ I am a highly competent IT professional with a proven track record in designing 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... React 
-- 🌱 I’m currently learning ... Express , Node
-- 👯 I’m looking to collaborate on ... React
-- 🤔 I’m looking for help with ... AWS
+- 🔭 I’m currently working on ... Android,Django 
+- 🌱 I’m currently learning ... Python Data science 
+- 👯 I’m looking to collaborate on ... Advanced Adnroid Apps
+- 🤔 I’m looking for help with ... ML
 - 💬 Ask me about ... anything 
 - 📫 How to reach me: ... rajpurohitarun97@gmail.com
 - 😄 Pronouns: ... he/him
