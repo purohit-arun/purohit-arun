@@ -8,11 +8,11 @@ I am a highly competent IT professional with a proven track record in designing 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Android,Django 
-- 🌱 I’m currently learning ... Python Data science 
-- 👯 I’m looking to collaborate on ... Advanced Adnroid Apps
-- 🤔 I’m looking for help with ... ML
-- 💬 Ask me about ... anything 
+- 🔭 I’m currently working on ... Android,Django,Kotlin
+- 🌱 I’m currently learning ... Machine Learning
+- 👯 I’m looking to collaborate on ... Advanced Adnroid Apps(using Koltin)
+- 🤔 I’m looking for help with ... Django and Android
+- 💬 Ask me about ... anything related to tech
 - 📫 How to reach me: ... rajpurohitarun97@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm still learning 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-Skills: NODE JS / REACT / JS / HTML / CSS
+Skills: NODE JS / REACT / JS / HTML / CSS / ANDROID / DJANGO
 
 
 
