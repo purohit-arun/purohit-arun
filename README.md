@@ -1,6 +1,6 @@
 
 ### Hi there 👋, My name is Arun Purohit
-#### I am Web + App Developer
+#### I am Android App Developer
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
@@ -8,8 +8,8 @@ I am a highly competent IT professional with a proven track record in designing 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Android,Django,Kotlin
-- 🌱 I’m currently learning ... Machine Learning
+- 🔭 I’m currently working on ... Android,Kotlin
+- 🌱 I’m currently learning ... Android Coroutines and Reactive and Functional Programming
 - 👯 I’m looking to collaborate on ... Advanced Adnroid Apps(using Koltin)
 - 🤔 I’m looking for help with ... Django and Android
 - 💬 Ask me about ... anything related to tech
