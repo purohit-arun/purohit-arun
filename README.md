@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 I am a **Results-Driven QA Engineer** with over **3.5 years of experience** in **Automation Testing**, **Security Testing**, and **Performance Testing**. Skilled in building **robust test automation frameworks**, integrating them into **CI/CD pipelines**, and leveraging **AI tools like ChatGPT, Copilot, and Claude** to optimize testing workflows.
 
-With expertise across **UI, API, Security, and Performance Testing**, I contribute to delivering high-quality software with faster release cycles. I have hands-on experience in **Cypress, Selenium, Postman, JMeter, GitHub Actions**, and more, working in **Agile** environments.
+With expertise across **UI, API, Security, and Performance Testing**, I contribute to delivering high-quality software with faster release cycles. I have hands-on experience in **Cypress, Selenium, Playwright ,Postman, JMeter, GitHub Actions**, and more, working in **Agile** environments.
 
 ---
 
@@ -21,7 +21,7 @@ With expertise across **UI, API, Security, and Performance Testing**, I contribu
 ---
 
 ### 🛠️ Core Skills
-- **Automation Testing**: Cypress (JavaScript), Selenium WebDriver (Java), TestNG
+- **Automation Testing**: Cypress (JavaScript), Selenium WebDriver (Java), TestNG, Playwright
 - **API Testing**: Postman, RESTful APIs
 - **Performance Testing**: JMeter, BlazeMeter
 - **Security Testing**: OWASP Top 10, Manual Pen Testing, API Security
